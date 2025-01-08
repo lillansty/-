@@ -1,4 +1,4 @@
-# tourists-database-system
+# tourist-club-database-system
 # Автоматизированная информационная система туристического клуба
 
 ## Описание проекта
